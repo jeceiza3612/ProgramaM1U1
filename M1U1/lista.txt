@@ -5,3 +5,4 @@ rocas
 árboles
 luces
 pájaros
+arena
