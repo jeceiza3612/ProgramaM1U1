@@ -4,3 +4,4 @@ barcos
 rocas
 árboles
 luces
+pájaros
